@@ -1,0 +1,33 @@
+# Processing / Java
+*.class
+*.jar
+*.exe
+*.dll
+*.so
+*.out
+
+# Python
+*.pyc
+__pycache__/
+
+# Editor
+*.log
+*.tmp
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.old
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Git
+.git/
